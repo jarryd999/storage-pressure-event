@@ -155,4 +155,4 @@ Many thanks for valuable feedback and advice from:
 
 *   jsbell@chromium.org
 *   mek@chromium.org
-*   [pwnall@chromium.or](mailto:pwnall@chromium.org)g
+*   [pwnall@chromium.org](mailto:pwnall@chromium.org)
