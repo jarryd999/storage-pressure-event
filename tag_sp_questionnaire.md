@@ -34,7 +34,7 @@ No.
 No.
 
 ### 2.12. What temporary identifiers might this specification create or expose to the web?
-
+None.
 
 ### 2.13. How does this specification distinguish between behavior in first-party and third-party contexts?
 No distinction.
