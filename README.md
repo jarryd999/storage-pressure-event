@@ -281,6 +281,13 @@ make the following non-normative recommendations.
    agent may choose to dispatch at most one storage pressure event per listener
    per day.
 
+5. De-bounce state need not be persisted across browser sessions and can live 
+   exclusively in memory.
+   
+6. Most implementations of Incognito Mode tend to be RAM-backed. In this case,
+   the event should not be dispatched as it does not make sense to dispatch an
+   event related to disk availability.
+
 We chose not to turn any of the recommendations above into normative
 specification text, in order to allow implementations to experiment with
 dispatch logic, and eventually adopt the best practices that emerge into the
@@ -334,6 +341,7 @@ the following delicate design issues.
    across multiple origins under storage pressure. This means the reservation
    system may need to overcommit free space, and use the storage pressure
    signal to prevent well-behaving applications from filling up the user's disk.
+  
 
 
 ## Stakeholder Feedback / Opposition
