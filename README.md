@@ -357,8 +357,8 @@ the following delicate design issues.
 
 Many thanks for valuable feedback and advice from:
 
-*   Andrew Sutherland
 *   Alexandra (Lexi) Stavrakos
+*   Andrew Sutherland
 *   Anne van Kesteren
 *   Joshua Bell
 *   Marijn Kruisselbrink
