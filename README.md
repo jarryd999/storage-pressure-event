@@ -347,8 +347,7 @@ the following delicate design issues.
 ## Stakeholder Feedback / Opposition
 
 *   Chrome : Positive, authoring this explainer
-*   [Firefox](https://github.com/whatwg/storage/issues/73#issuecomment-535541438) :
-    Positive, agreed at TPAC 2019
+*   Firefox : No signals
 *   Safari : No signals
 *   Edge : No signals
 
