@@ -37,6 +37,8 @@
 
 ## Introduction
 
+This explainer proposes changes to
+[the Storage Standard](https://storage.spec.whatwg.org/).
 
 This proposal aims to provide an early warning when the storage device backing
 the user's data is running low on free space. This warning is provided to
